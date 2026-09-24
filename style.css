@@ -140,3 +140,8 @@ body.pagina-agendamento {
     background-size: cover;
     background-position: center;
 }
+
+h1, h2, h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #000000;
+}
